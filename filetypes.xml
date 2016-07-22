@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="Gemfile" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_global" type="PLAIN_TEXT" />
+      <mapping ext="cap" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
