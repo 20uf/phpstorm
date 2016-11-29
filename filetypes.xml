@@ -12,6 +12,7 @@
       <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping ext="cap" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
+      <mapping ext="xlf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
