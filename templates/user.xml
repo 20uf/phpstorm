@@ -1,0 +1,3 @@
+<templateSet group="user">
+  <template name="processhandler" value="        $this-&gt;form-&gt;setData($customer);&#10;        $this-&gt;form-&gt;handleRequest($request);&#10;&#10;        if ($this-&gt;form-&gt;isSubmitted() &amp;&amp; $this-&gt;form-&gt;isValid()) {&#10;&#10;            return true;&#10;        }&#10;&#10;        return false;" description="Adds process handler" toReformat="false" toShortenFQNames="true" />
+</templateSet>
