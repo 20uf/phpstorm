@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".semver" type="PLAIN_TEXT" />
+      <mapping pattern="run" type="PLAIN_TEXT" />
       <mapping pattern="start_safe_perms" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern="docker-ssh" type="PLAIN_TEXT" />
