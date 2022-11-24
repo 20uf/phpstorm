@@ -1,1 +1,13 @@
-<code_scheme name="Default" version="173" />
+<code_scheme name="Default" version="173">
+  <PHPCodeStyleSettings>
+    <option name="COMMA_AFTER_LAST_ARRAY_ELEMENT" value="true" />
+    <option name="LOWER_CASE_NULL_CONST" value="true" />
+    <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
+  </PHPCodeStyleSettings>
+  <codeStyleSettings language="PHP">
+    <option name="KEEP_LINE_BREAKS" value="false" />
+    <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
+    <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
+    <option name="WRAP_ON_TYPING" value="0" />
+  </codeStyleSettings>
+</code_scheme>
